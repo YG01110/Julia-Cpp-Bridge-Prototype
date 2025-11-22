@@ -1,0 +1,3 @@
+/Users/yashgupta/Desktop/GSoC_Work/Manual_Shape/build/CMakeFiles/shape_lib.dir
+/Users/yashgupta/Desktop/GSoC_Work/Manual_Shape/build/CMakeFiles/edit_cache.dir
+/Users/yashgupta/Desktop/GSoC_Work/Manual_Shape/build/CMakeFiles/rebuild_cache.dir
